@@ -5,17 +5,10 @@
 
 <div align="center">
   <h3>
-    <a href="https://euphonious-pony-6836ab.netlify.app/">
+    <a href="https://github-clone-dusky.vercel.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/div0021/todosChallange">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
-      Challenge
-    </a>
   </h3>
 </div>
 
@@ -25,7 +18,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/div0021/todosChallange/blob/main/public/Screenshot.png)
+![screenshot](https://github.com/div0021/Github-clone/blob/main/public/Screenshot.png)
 
 
 
@@ -65,7 +58,6 @@ $ npm run dev
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
